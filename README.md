@@ -2,7 +2,7 @@
 
 <img align="right" width="500" src="https://github-readme-stats.vercel.app/api?username=phyng&count_private=true&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true">
 
-我是 **phyng**，在很多地方还经常叫**江南胡杨**，如果需要联系我，可以给我[发邮件](mailto:phyngk@gmail.com)。
+我是 **phyng**，如果需要联系我，可以给我[发邮件](mailto:phyngk@gmail.com)。
 
 I’m phyng. If you need to contact me, you can [send me an email](mailto:phyngk@gmail.com).
 
